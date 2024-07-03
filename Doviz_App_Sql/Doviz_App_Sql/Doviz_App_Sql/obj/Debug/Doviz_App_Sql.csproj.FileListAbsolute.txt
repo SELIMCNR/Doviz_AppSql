@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\bin\Debug\Doviz_App_Sql.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\bin\Debug\Doviz_App_Sql.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\bin\Debug\Doviz_App_Sql.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Doviz_App_Sql\Doviz_App_Sql\obj\Debug\Doviz_App_Sql.pdb
